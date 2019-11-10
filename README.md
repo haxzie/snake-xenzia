@@ -1,6 +1,7 @@
 # The Classsic Snake Game
 
 The classic snake game implemented using Canvas and JS
+[Click to Play](https://haxzie.github.io/snake-xenzia/)
 > Just for learning purposes
 
 ### Things to learn
